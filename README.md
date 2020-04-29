@@ -30,7 +30,7 @@ $ pip3 install requests==2.23.0
 ```
 python stackoverPlough.py
 ```
-* [Tutorial]()
+* [See Video](https://youtu.be/hOVlO3-fovA)
 
 ### Support & Contributions
 
